@@ -1,0 +1,46 @@
+{
+  "locales": [
+    {
+      "name": "ru",
+      "values": [
+        {
+          "name": "AcceptCheckbox",
+          "value": "Accept"
+        },
+        {
+          "name": "InstallButton",
+          "value": "Install"
+        },
+        {
+          "name": "UninstallButton",
+          "value": "Uninstall"
+        },
+        {
+          "name": "ExitButton",
+          "value": "Exit"
+        }
+      ]
+    },
+    {
+      "name": "en",
+      "values": [
+        {
+          "name": "AcceptCheckbox",
+          "value": "Accept"
+        },
+        {
+          "name": "InstallButton",
+          "value": "Install"
+        },
+        {
+          "name": "UninstallButton",
+          "value": "Uninstall"
+        },
+        {
+          "name": "ExitButton",
+          "value": "Exit"
+        }
+      ]
+    }
+  ]
+}
